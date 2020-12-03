@@ -4,7 +4,7 @@
 
 ### I'm a Student, Developer and Designer!
 
-- 🔭 I just finished my first coding ourse: SYDE 121 Digital Computation! 
+- 🔭 I just finished my first coding course: SYDE 121 Digital Computation! 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn more!
