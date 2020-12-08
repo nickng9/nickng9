@@ -1,5 +1,9 @@
 ### Hi there, I'm Nick 👋
 
+<div align="left">
+    <img src="https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif" width="300" alt="jokes GIF">
+</div>
+
 [![website](https://img.shields.io/website?down_color=lightgrey&down_message=down&label=nickng.tech&style=for-the-badge&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fnickng.tech)](https://nickng.tech)
 
 ### I'm a Student, Developer and Designer!
