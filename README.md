@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning web development 🤣
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn more!
+- 🏦 Looking for internship and co-op opportunities!
 - ⚡ Fun fact: I love Formula 1 and exercising
 
 ### Spotify Playing 🎧
