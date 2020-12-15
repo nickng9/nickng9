@@ -5,7 +5,7 @@
 ### I'm a Student, Developer and Designer!
 
 - 🔭 I am making my way through a React course offered on Udemy.
-- 🌱 I’m currently learning learning Node.js
+- 🌱 I’m currently learning learning Haskell and Elm.js
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn more!
 - 🏦 Looking for internship and co-op opportunities!
