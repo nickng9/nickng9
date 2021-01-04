@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning learning more about data vis/analysis with Jupyter Notebooks
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more!
-- 🏦 Incoming Business Analyst intern at Deloitte, looking for Fall 2021 internships and opportunities!
+- 🏦 Business Analyst intern at Deloitte, looking for Fall 2021 internships and opportunities!
 - ⚡ Fun fact: I love Formula 1 and exercising
 
 ### Spotify Playing 🎧
