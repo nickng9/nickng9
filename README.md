@@ -5,9 +5,9 @@
 ### I'm a Student, Developer and Designer!
 
 - 🔭 I am making my way through a React course offered on Udemy.
-- 🌱 I’m currently learning learning more about data vis/analysis with Jupyter Notebooks
+- 🌱 I’m currently learning learning more about Discord bots!
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn more!
+- 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
 - 🏦 Business Analyst intern at Deloitte, looking for Fall 2021 internships and opportunities!
 - ⚡ Fun fact: I love Formula 1 and exercising
 
