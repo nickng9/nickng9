@@ -4,12 +4,12 @@
 
 ### I'm a Student, Developer and Designer!
 
-- 🔭 I am making my way through a React course offered on Udemy.
-- 🌱 I’m currently learning learning more about data analytics, specifically using Jupyter Notebooks!
-- 👯 I’m looking to collaborate with other developers 
+- 🔭 I am making my way through a Swift course offered on Codecademy.
+- 🌱 I’m currently learning learning more about iOS development, specifically Swift!
+- 👯 I’m always looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
 - 🏦 Business Analyst intern at Deloitte, looking for Fall 2021 internships and opportunities!
-- ⚡ Fun fact: I love Formula 1 and exercising
+- ⚡ Fun fact: Eggplants are berries
 
 ### Spotify Playing 🎧
 
