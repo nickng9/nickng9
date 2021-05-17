@@ -5,7 +5,7 @@
 ### I'm a Student, Developer and Designer!
 
 - 🔭 I am learning about data structures / algorithms as well as human factors in design.
-- 🌱 I’m currently learning learning more about full stack development!
+- 🌱 I’m currently learning more about Discord.py!
 - 👯 I’m always looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
 - 🏦 On the job hunt, looking for Fall 2021 internships and opportunities!
