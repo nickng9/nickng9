@@ -9,7 +9,7 @@
 - 👯 I’m always looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
 - 🏦 On the job hunt, looking for Fall 2021 internships and opportunities!
-- ⚡ Fun fact: Eggplants are berries
+- ⚡ Fun fact: You might be able to catch me out on a run or out on the squash courts sometime!
 
 ### Spotify Playing 🎧
 
