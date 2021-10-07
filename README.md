@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about Discord.py!
 - 👯 I’m always looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
-- 🏦 On the job hunt, looking for Fall 2021 internships and opportunities!
+- 🏦 Currently PM @ GoFleet / Zendit, looking for Summer 2022 internships and opportunities!
 - ⚡ Fun fact: You might be able to catch me out on a run or out on the squash courts sometime!
 
 ### Spotify Playing 🎧
