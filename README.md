@@ -4,11 +4,11 @@
 
 ### I'm a Student, Developer and Designer!
 
-- 🔭 I am learning about data structures / algorithms as well as human factors in design.
-- 🌱 I’m currently learning more about Discord.py!
+- 🔭 I am learning about the product management cycle and how to approach decision making!
+- 🌱 I’m currently learning more about cryptocurrencies!
 - 👯 I’m always looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
-- 🏦 Currently PM @ GoFleet / Zendit, looking for Summer 2022 internships and opportunities!
+- 🏦 Looking for PM opportunities in Summer 2022!
 - ⚡ Fun fact: You might be able to catch me out on a run or out on the squash courts sometime!
 
 ### Spotify Playing 🎧
