@@ -7,8 +7,8 @@
 - 🔭 I am learning about the product management cycle and how to approach decision making!
 - 🌱 I’m currently learning more about cryptocurrencies!
 - 👯 I’m always looking to collaborate with other developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects and meet cool people!
-- 🏦 Looking for PM opportunities in Summer 2022!
+- 🥅 2024 Goals: Finish some books and bring some ideas to life!
+- 🏦 Looking for full-time PM opportunities in 2025!
 - ⚡ Fun fact: You might be able to catch me out on a run or out on the squash courts sometime!
 
 ### Spotify Playing 🎧
